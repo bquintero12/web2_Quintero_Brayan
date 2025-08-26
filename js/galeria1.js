@@ -6,7 +6,7 @@ const fotos = [
     "img/carrusel/canto.jpg"
 ];
 
-let indice = 1;
+let indice = 0;
 const img = document.getElementById("foto");
 
 setInterval(() => {
