@@ -1,9 +1,9 @@
 const fotos = [
-    "img/fotoperfil.jpg",
-    "img/ftbelen.jpg",
-    "img/ftgaleriacafe.jpg",
-    "img/MiEsencia.jpg",
-    "img/canto.jpg"
+    "img/carrusel/fotoperfil.jpg",
+    "img/carrusel/ftbelen.jpg",
+    "img/carrusel/ftgaleriacafe.jpg",
+    "img/carrusel/MiEsencia.jpg",
+    "img/carrusel/canto.jpg"
 ];
 
 let indice = 0;
