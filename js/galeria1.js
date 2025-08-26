@@ -3,7 +3,7 @@ const fotos = [
     "img/carrusel/ftbelen.jpg",
     "img/carrusel/ftgaleriacafe.jpg",
     "img/carrusel/MiEsencia.jpg",
-    "img/carrusel/canto.jpg"
+    "img/carrusel/Canto.jpg"
 ];
 
 let indice = 0;
